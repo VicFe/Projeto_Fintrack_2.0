@@ -1,0 +1,53 @@
+.root {
+    -fx-font-size: 13px;
+    -fx-background-color: #f2f2f2;
+}
+
+.topo {
+    -fx-background-color: #2c3e50;
+}
+
+.titulo {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+.subtitulo {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+}
+
+.topo .receita {
+    -fx-text-fill: #7fe08a;
+}
+
+.topo .despesa {
+    -fx-text-fill: #ff8a80;
+}
+
+.topo .saldo {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.receita {
+    -fx-text-fill: green;
+}
+
+.despesa {
+    -fx-text-fill: red;
+}
+
+.saldo {
+    -fx-font-weight: bold;
+}
+
+.botao-principal {
+    -fx-background-color: #27ae60;
+    -fx-text-fill: white;
+}
+
+.button {
+    -fx-cursor: hand;
+}
